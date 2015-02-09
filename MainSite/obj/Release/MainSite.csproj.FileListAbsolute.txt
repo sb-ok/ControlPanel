@@ -1,0 +1,5 @@
+C:\Dev\MainSite\MainSite\MainSite\bin\MainSite.dll.config
+C:\Dev\MainSite\MainSite\MainSite\bin\MainSite.dll
+C:\Dev\MainSite\MainSite\MainSite\bin\MainSite.pdb
+C:\Dev\MainSite\MainSite\MainSite\obj\Release\MainSite.dll
+C:\Dev\MainSite\MainSite\MainSite\obj\Release\MainSite.pdb

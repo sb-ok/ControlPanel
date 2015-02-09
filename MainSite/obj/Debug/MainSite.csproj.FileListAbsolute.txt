@@ -1,0 +1,6 @@
+C:\Dev\MainSite\MainSite\MainSite\bin\MainSite.dll.config
+C:\Dev\MainSite\MainSite\MainSite\bin\MainSite.dll
+C:\Dev\MainSite\MainSite\MainSite\bin\MainSite.pdb
+C:\Dev\MainSite\MainSite\MainSite\obj\Debug\MainSite.csprojResolveAssemblyReference.cache
+C:\Dev\MainSite\MainSite\MainSite\obj\Debug\MainSite.dll
+C:\Dev\MainSite\MainSite\MainSite\obj\Debug\MainSite.pdb
